@@ -1,1 +1,1 @@
-worker: python3 -m sukunban-all
+worker: python3 -m Sukunbanall
